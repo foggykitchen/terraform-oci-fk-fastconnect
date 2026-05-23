@@ -56,7 +56,7 @@ terraform-oci-fk-fastconnect/
 
 ```hcl
 module "fastconnect" {
-  source = "git::https://github.com/mlinxfeld/terraform-oci-fk-fastconnect.git?ref=v0.1.1"
+  source = "git::https://github.com/foggykitchen/terraform-oci-fk-fastconnect.git?ref=v0.1.1"
 
   compartment_ocid          = var.compartment_ocid
   name                      = "fc-fk-demo"
