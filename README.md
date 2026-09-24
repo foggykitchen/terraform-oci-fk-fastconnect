@@ -2,7 +2,7 @@
 
 This repository contains a reusable **Terraform/OpenTofu module** for deploying **Oracle Cloud Infrastructure (OCI) FastConnect connectivity primitives** such as **private virtual circuits** and optional **DRG attachment management**.
 
-It is part of the **[FoggyKitchen.com training ecosystem](https://foggykitchen.com/courses-2/)** and serves as the OCI private interconnect edge building block for hybrid and multicloud connectivity patterns.
+It is part of the **[FoggyKitchen.com training ecosystem](https://foggykitchen.com/)** and serves as the OCI private interconnect edge building block for hybrid and multicloud connectivity patterns.
 
 Support expectations are documented in [SUPPORT.md](SUPPORT.md).
 
