@@ -58,7 +58,7 @@ terraform-oci-fk-fastconnect/
 
 ```hcl
 module "fastconnect" {
-  source = "git::https://github.com/foggykitchen/terraform-oci-fk-fastconnect.git?ref=v0.2.0" # TODO: tag not yet released
+  source = "git::https://github.com/foggykitchen/terraform-oci-fk-fastconnect.git?ref=v0.2.0"
 
   compartment_ocid          = var.compartment_ocid
   name                      = "fc-fk-demo"
