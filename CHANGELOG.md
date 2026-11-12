@@ -1,0 +1,9 @@
+# Changelog
+
+## v0.2.0 — Unreleased draft
+
+- BREAKING: require OCI provider >= 9.12.1, < 10.0.0 and OpenTofu >= 1.11.0.
+- Preserve the existing module inputs, outputs and resource addresses.
+- Add OCI 9.12.1 mocked plan coverage and OpenTofu 1.11.6 CI.
+- Release draft only: no tag or release has been published.
+
